@@ -50,7 +50,7 @@ From the project root, execute:
 ```bash
 mvn test
 ```
-
+Alternatively, run `TestRunner.java` from IntelliJ IDEA. Individual `.feature` files can also be executed directly.
 The tests open Sauce Demo, log in, and execute the home page, cart, and checkout scenarios.
 
 ## Test Coverage
