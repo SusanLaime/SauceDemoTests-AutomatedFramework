@@ -35,5 +35,15 @@ build/
 ### VS Code ###
 .vscode/
 
-### Mac OS ###
+# IntelliJ / IDE files
+.idea/
+
+# Logs
+logs/
+
+# Screenshots (if generated)
+screenshots/
+
+# OS junk
 .DS_Store
+Thumbs.db
