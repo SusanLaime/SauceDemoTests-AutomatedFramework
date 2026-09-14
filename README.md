@@ -9,7 +9,7 @@ Automated UI tests for [Sauce Demo](https://www.saucedemo.com/) using Selenium, 
 | **Author** | Susan Laime Lucero                                                  |
 | **Course** | Certification II - Universidad Privada Boliviana                        |
 | **Instructor** | Mauricio Viscarra Rivera                                            |
-| **Repository** | https://github.com/SusanLaime/SauceDemoTest-Automated.git|
+| **Repository** | https://github.com/SusanLaime/SauceDemoTests-AutomatedFramework.git|
 
 ## Requirements Covered
 
@@ -50,7 +50,7 @@ From the project root, execute:
 ```bash
 mvn test
 ```
-
+Alternatively, run `TestRunner.java` from IntelliJ IDEA. Individual `.feature` files can also be executed directly.
 The tests open Sauce Demo, log in, and execute the home page, cart, and checkout scenarios.
 
 ## Test Coverage
