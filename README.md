@@ -9,7 +9,7 @@ Automated UI tests for [Sauce Demo](https://www.saucedemo.com/) using Selenium, 
 | **Author** | Susan Laime Lucero                                                  |
 | **Course** | Certification II - Universidad Privada Boliviana                        |
 | **Instructor** | Mauricio Viscarra Rivera                                            |
-| **Repository** | https://github.com/SusanLaime/SauceDemoTest-Automated.git|
+| **Repository** | https://github.com/SusanLaime/SauceDemoTests-AutomatedFramework.git|
 
 ## Requirements Covered
 
